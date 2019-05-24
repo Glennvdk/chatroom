@@ -1,3 +1,13 @@
+ - index.htlm:
+  standaard opmaak van de website
+ - chat.js:
+  functie die aangeeft door wie en wanneer een bericht is gepost.
+ - Styles.css
+  opmaak van het html bestand
+ - 
+
+
+
 # chatroom
 informative links:
 
